@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Prodip Roy:
 I'm Prodip Roy, a Full-Stack Developer with 7+ years of professional experience.<br><br>
 🔭 Currently working on:
 Backend-focused full-stack applications, RESTful APIs, and scalable systems using Laravel, Node.js, NestJS, and modern cloud technologies.<br><br>🌱 I’m currently learning:<br>Advanced system design, cloud-native CI/CD practices and DBA<br><br>👯 I’m looking to collaborate on:<br>Open-source projects, backend services, API development, and performance-critical web applications.<br><br>🤔 I’m looking for help with:<br>Large-scale system optimization, distributed systems, and best practices for production-grade architectures.<br><br>💬 Ask me about:<br>Laravel, Node.js, REST APIs, backend architecture, full-stack development, clean code, and performance optimization.<br><br>📫 How to reach me:<br>Connect with me on LinkedIn or reach out via GitHub.<br><br>😄 Pronouns:<br>He / Him<br><br>⚡ Fun fact:<br>I enjoy solving complex technical problems and turning them into simple, scalable solutions.
